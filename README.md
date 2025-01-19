@@ -1,9 +1,6 @@
-## Hi there :wave:
+## Hi there
 
-<!--
-**novscoseminji/novscoseminji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+_Welcome to "Introduction to GitHub"! :wave:_
 
 <br>:woman_technologist: I'm currently a computer science student here
 <br>:otter: I’m currently learning with help from docs.github.com
